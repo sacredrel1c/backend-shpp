@@ -39,8 +39,8 @@ Vue.component("task", {
 	`
 });
 
-const url = "http://back.ua/api/v1/";
-const site = "http://front.ua/LoginToDo/login.html";
+const url = "http://back.ua/api/v3/";
+const site = "http://front.ua/login.html";
 let vue = new Vue({
 	el: '#app',
 	data: {
